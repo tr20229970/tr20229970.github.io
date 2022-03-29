@@ -749,14 +749,8 @@ a {
 .cid-s48vrXhP0J .mbr-section-subtitle {
   text-align: center;
 }
-.cid-s48OLK6784 {
-  z-index: 1000;
-  width: 100%;
-  position: relative;
-  min-height: 60px;
-}
-.cid-s48OLK6784 nav.navbar {
-  position: fixed;
+.cid-s48OLK6784 .navbar-dropdown {
+  position: relative !important;
 }
 .cid-s48OLK6784 .dropdown-item:before {
   font-family: Moririse2 !important;
@@ -1062,7 +1056,6 @@ a {
 }
 .cid-s48OLK6784 .navbar-dropdown {
   padding: .5rem 1rem;
-  position: fixed;
 }
 .cid-s48OLK6784 a.nav-link {
   display: flex;
@@ -1171,14 +1164,8 @@ a {
   text-align: center;
   color: #fff;
 }
-.cid-s48OLK6784 {
-  z-index: 1000;
-  width: 100%;
-  position: relative;
-  min-height: 60px;
-}
-.cid-s48OLK6784 nav.navbar {
-  position: fixed;
+.cid-s48OLK6784 .navbar-dropdown {
+  position: relative !important;
 }
 .cid-s48OLK6784 .dropdown-item:before {
   font-family: Moririse2 !important;
@@ -1484,7 +1471,6 @@ a {
 }
 .cid-s48OLK6784 .navbar-dropdown {
   padding: .5rem 1rem;
-  position: fixed;
 }
 .cid-s48OLK6784 a.nav-link {
   display: flex;
@@ -1618,14 +1604,8 @@ a {
   text-align: center;
   color: #fff;
 }
-.cid-t1oIWouK6A {
-  z-index: 1000;
-  width: 100%;
-  position: relative;
-  min-height: 60px;
-}
-.cid-t1oIWouK6A nav.navbar {
-  position: fixed;
+.cid-t1oIWouK6A .navbar-dropdown {
+  position: relative !important;
 }
 .cid-t1oIWouK6A .dropdown-item:before {
   font-family: Moririse2 !important;
@@ -1931,7 +1911,6 @@ a {
 }
 .cid-t1oIWouK6A .navbar-dropdown {
   padding: .5rem 1rem;
-  position: fixed;
 }
 .cid-t1oIWouK6A a.nav-link {
   display: flex;
@@ -2053,14 +2032,8 @@ a {
 .cid-t1oIWujxxL .media-container-row .row-copirayt p {
   width: 100%;
 }
-.cid-t1oIWouK6A {
-  z-index: 1000;
-  width: 100%;
-  position: relative;
-  min-height: 60px;
-}
-.cid-t1oIWouK6A nav.navbar {
-  position: fixed;
+.cid-t1oIWouK6A .navbar-dropdown {
+  position: relative !important;
 }
 .cid-t1oIWouK6A .dropdown-item:before {
   font-family: Moririse2 !important;
@@ -2366,7 +2339,6 @@ a {
 }
 .cid-t1oIWouK6A .navbar-dropdown {
   padding: .5rem 1rem;
-  position: fixed;
 }
 .cid-t1oIWouK6A a.nav-link {
   display: flex;
